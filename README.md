@@ -16,10 +16,32 @@ This Power BI project provides a comprehensive analysis of the 2022 T20 cricket 
 
 Select the best 12 players based on their performance.
 
-✅ Advanced DAX Calculations:
-🏏 Batting Average, Strike Rate,Innings batted, Boundary %,Batting Position, Ball Faced..
-🎯 Bowling Economy Rate,Average, Strike Rate, Innings Bowled, Dot Ball %...
-📊 Color Callout Values
+Batting Metrics
+
+  Total Runs
+  Total Innings Batted
+  Batting Average
+  Total Balls Faced
+  Strike Rate
+  Batting Position
+  Boundary %
+
+Bowling Metrics
+  Wickets
+  Balls Bowled
+  Runs Conceded
+  Economy Rate
+  Bowling Strike Rate
+  Bowling Average
+  Total Innings Bowled
+  Dot Ball %
+Player Selection & Display
+  Player Selection
+  Display Text
+  Color Callout Value
+Additional Calculations
+  Boundary Runs
+  Player Ranking Using SWITCH Function
 
 ✅ Interactive Power BI Visuals:
 Custom-designed dashboards 📊
