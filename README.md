@@ -3,6 +3,7 @@
 This Power BI project provides a comprehensive analysis of the 2022 T20 cricket season, allowing users to explore player performance and build their own best XI team. It includes various dynamic visualizations, statistical insights, and interactive filters to analyze key metrics.
 
 🔍 Key Features
+
 ✅ Player Categories: Identify top performers based on playing style:
 
 🏏 Power Hitters – High Strike Rate Batters
@@ -10,7 +11,10 @@ This Power BI project provides a comprehensive analysis of the 2022 T20 cricket 
 🔥 Finishers – Endgame Impact Players
 🏆 All-rounders – Balanced Batting & Bowling Performers
 🎯 Bowlers – Leading Wicket-Takers
-✅ Best XI Team Selection: Select the best 12 players based on their performance.
+
+✅ Best XI Team Selection:
+
+Select the best 12 players based on their performance.
 
 ✅ Advanced DAX Calculations:
 🏏 Batting Average, Strike Rate,Innings batted, Boundary %,Batting Position, Ball Faced..
@@ -24,10 +28,12 @@ Performance-based filtering 🔍
 
 
 ✅ Data Cleaning & Transformation:
+
 Source: ESPN Cricinfo
 Processing: Data cleaned, transformed, and modeled in Power BI
 
 📊 Data Source & Preprocessing
+
 Raw Data: Extracted from ESPN Cricinfo
 Processing: Cleaned and structured using Power BI tools
 DAX Measures: Applied for deep analytical insights
