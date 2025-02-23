@@ -13,29 +13,31 @@ This Power BI project provides a comprehensive analysis of the 2022 T20 cricket 
 ✅ Best XI Team Selection: Select the best 12 players based on their performance.
 
 ✅ Advanced DAX Calculations:
+🏏 Batting Average, Strike Rate,Innings batted, Boundary %,Batting Position, Ball Faced..
+🎯 Bowling Economy Rate,Average, Strike Rate, Innings Bowled, Dot Ball %...
+📊 Color Callout Values
 
-🎯 Strike Rate (SR) = (Runs Scored / Balls Faced) * 100
-🏏 Batting Average = Runs Scored / Dismissals
-🎯 Bowling Economy Rate = Runs Conceded / Overs Bowled
-📊 Custom Metrics for ranking players dynamically
 ✅ Interactive Power BI Visuals:
-
 Custom-designed dashboards 📊
 Player comparison charts 📈
 Performance-based filtering 🔍
-✅ Data Cleaning & Transformation:
 
+
+✅ Data Cleaning & Transformation:
 Source: ESPN Cricinfo
 Processing: Data cleaned, transformed, and modeled in Power BI
+
 📊 Data Source & Preprocessing
 Raw Data: Extracted from ESPN Cricinfo
 Processing: Cleaned and structured using Power BI tools
 DAX Measures: Applied for deep analytical insights
+
 🚀 How to Use
 Download the .pbix file from this repository.
 Open it in Power BI Desktop.
 Use the interactive filters to analyze player statistics.
 Build your Best XI based on performance.
+
 📸 Screenshots
 ![Screenshot 2025-02-23 125646](https://github.com/user-attachments/assets/3c22bad8-803f-46a9-bafc-25f802e9cdd7)
 ![Screenshot 2025-02-23 125717](https:![Screenshot 2025-02-23 125841](https://github.com/user-attachments/assets/e7c416df-f660-430b-8a13-058161dc80ee)
@@ -45,8 +47,11 @@ Build your Best XI based on performance.
 
 
 🛠 Technologies Used
+
 Power BI (Data Visualization & Modeling)
 DAX (Data Analysis Expressions)
 Power Query (ETL & Data Cleaning)
+
 📩 Feedback & Contributions
+
 If you have suggestions or want to contribute, feel free to open an issue or a pull request!
